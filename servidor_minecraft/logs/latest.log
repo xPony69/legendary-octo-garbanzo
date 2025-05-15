@@ -17950,3 +17950,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 02:15:36.688] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3a816614
 [15May2025 02:15:36.692] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kazu8a[/127.36.175.188:53405] logged in with entity id 37923 at (1403.9164156751128, 67.0, -275.99694237226663)
 [15May2025 02:15:36.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a joined the game
+[15May2025 02:17:20.499] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: shydreamer10 lost connection: Timed out
+[15May2025 02:17:20.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 left the game
+[15May2025 02:17:20.543] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[15May2025 02:17:21.986] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kazu8a lost connection: Timed out
+[15May2025 02:17:21.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a left the game
+[15May2025 02:17:29.225] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: WhySteveXD lost connection: Timed out
+[15May2025 02:17:29.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD left the game
+[15May2025 02:17:32.179] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Roothsvi lost connection: Timed out
+[15May2025 02:17:32.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi left the game
+[15May2025 02:18:10.166] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2d31aede
+[15May2025 02:18:10.171] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: shydreamer10[/127.221.236.251:47185] logged in with entity id 39387 at (-9.08250330701491, 63.381420536587385, -198.7702855462306)
+[15May2025 02:18:10.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 joined the game
+[15May2025 02:18:14.327] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@10c8564a
+[15May2025 02:18:14.331] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Srjose56[/127.43.94.109:41693] logged in with entity id 39511 at (-20.5, 63.0, -52.5)
+[15May2025 02:18:14.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Srjose56 joined the game
+[15May2025 02:18:14.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Srjose56 has made the advancement [Ice and Fire]
+[15May2025 02:18:31.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[15May2025 02:18:31.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15May2025 02:18:31.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15May2025 02:18:31.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15May2025 02:18:31.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15May2025 02:18:32.560] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15May2025 02:18:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15May2025 02:18:32.562] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15May2025 02:18:32.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15May2025 02:18:32.562] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15May2025 02:18:32.592] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15May2025 02:18:32.635] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15May2025 02:18:32.640] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
