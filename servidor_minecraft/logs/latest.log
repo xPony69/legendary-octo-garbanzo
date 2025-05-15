@@ -17757,3 +17757,59 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 01:43:42.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD joined the game
 [15May2025 01:44:29.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi has made the advancement [Easter Egg Searcher]
 [15May2025 01:45:13.931] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6372, l='ServerLevel[world]', x=837.37, y=70.56, z=315.72] died, message: 'Villager suffocated in a wall'
+[15May2025 01:46:09.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kazu8a> xaero-waypoint:Waypoint:X:862:70:203:1:false:0:Internal-overworld-waypoints
+[15May2025 01:46:38.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a has made the advancement [Easter Egg Searcher]
+[15May2025 01:47:05.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi has made the advancement [Monster Hunter]
+[15May2025 01:47:09.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi has made the advancement [Knowledge of Death]
+[15May2025 01:47:09.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi has made the advancement [Easter Food]
+[15May2025 01:48:00.493] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of WhySteveXD) moved wrongly! 3.185094243849335
+[15May2025 01:48:00.494] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of WhySteveXD) moved wrongly! 3.185094243849335
+[15May2025 01:48:00.494] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of WhySteveXD) moved wrongly! 3.185094243849335
+[15May2025 01:48:00.547] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of WhySteveXD) moved wrongly! 3.3303348778406416
+[15May2025 01:48:00.615] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of WhySteveXD) moved wrongly! 3.4800051402695544
+[15May2025 01:48:00.616] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of WhySteveXD) moved wrongly! 4.269809485089468
+[15May2025 01:48:00.617] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of WhySteveXD) moved wrongly! 4.269809485089468
+[15May2025 01:48:00.617] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of WhySteveXD) moved wrongly! 3.874907312679511
+[15May2025 01:48:00.700] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of WhySteveXD) moved wrongly! 4.028119435095846
+[15May2025 01:48:20.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a has made the advancement [Knowledge of Death]
+[15May2025 01:48:20.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a has made the advancement [Easter Food]
+[15May2025 01:49:41.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Sweet Dreams]
+[15May2025 01:49:58.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 was slain by Zombie
+[15May2025 01:49:58.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Your First Grave]
+[15May2025 01:49:58.168] [Server thread/INFO] [tombstone/]: The player shydreamer10 has successfully been saved
+[15May2025 01:50:15.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has made the advancement [Sweet Dreams]
+[15May2025 01:50:57.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Ice Bucket Challenge]
+[15May2025 01:50:57.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Magic Writing]
+[15May2025 01:51:04.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has made the advancement [Monster Hunter]
+[15May2025 01:51:12.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Amateur Archaeologist]
+[15May2025 01:51:30.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has made the advancement [Knowledge of Death]
+[15May2025 01:51:30.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has made the advancement [Easter Food]
+[15May2025 01:51:36.681] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Roothsvi lost connection: Disconnected
+[15May2025 01:51:36.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi left the game
+[15May2025 01:51:53.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a has made the advancement [Sweet Dreams]
+[15May2025 01:52:03.334] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7ed183fb
+[15May2025 01:52:03.341] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Roothsvi[/127.71.36.129:43383] logged in with entity id 13849 at (316.69999998807907, 66.0, 955.9512117505953)
+[15May2025 01:52:03.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi joined the game
+[15May2025 01:52:21.887] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Roothsvi lost connection: Disconnected
+[15May2025 01:52:21.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi left the game
+[15May2025 01:52:22.484] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: WhySteveXD lost connection: Disconnected
+[15May2025 01:52:22.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD left the game
+[15May2025 01:52:28.694] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@590d85aa
+[15May2025 01:52:28.703] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: WhySteveXD[/127.220.99.221:35813] logged in with entity id 14204 at (859.6174468718647, 71.0, 326.054029895697)
+[15May2025 01:52:28.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD joined the game
+[15May2025 01:52:30.079] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3d4202f0
+[15May2025 01:52:30.087] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Roothsvi[/127.71.36.129:57321] logged in with entity id 14205 at (311.7562110848323, 67.0, 962.5440030718038)
+[15May2025 01:52:30.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi joined the game
+[15May2025 01:52:39.482] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6373, l='ServerLevel[world]', x=820.70, y=69.00, z=300.07] died, message: 'Villager was slain by Zombie'
+[15May2025 01:52:58.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a was frozen by Ice Dragon
+[15May2025 01:52:58.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a has made the advancement [Your First Grave]
+[15May2025 01:52:58.747] [Server thread/INFO] [tombstone/]: The player Kazu8a has successfully been saved
+[15May2025 01:53:29.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Cobweb Entanglement]
+[15May2025 01:53:47.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi has made the advancement [Blunt-force Trauma]
+[15May2025 01:53:47.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi has made the advancement [Isn't It Iron Pick]
+[15May2025 01:53:47.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi has made the advancement [Suit Up]
+[15May2025 01:53:50.271] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/6553, l='ServerLevel[world]', x=766.51, y=68.00, z=336.46] died, message: 'Leatherworker was slain by Ice Dragon'
+[15May2025 01:54:37.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Acquire Hardware]
+[15May2025 01:54:42.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Knowledge of Death]
+[15May2025 01:54:42.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Easter Food]
+[15May2025 01:56:16.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has made the advancement [Acquire Hardware]
