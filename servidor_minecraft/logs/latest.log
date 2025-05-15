@@ -17813,3 +17813,94 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 01:54:42.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Knowledge of Death]
 [15May2025 01:54:42.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Easter Food]
 [15May2025 01:56:16.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has made the advancement [Acquire Hardware]
+[15May2025 01:56:52.048] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=998, y=22, z=-177} but found not block entity block Block{minecraft:stone} at location
+[15May2025 01:56:52.049] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=998, y=22, z=-177}
+[15May2025 01:57:36.356] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7613, l='ServerLevel[world]', x=1050.39, y=66.00, z=174.39] died, message: 'Villager was turned to ice by Ice Dragon'
+[15May2025 01:57:38.024] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7708, l='ServerLevel[world]', x=1049.43, y=67.00, z=176.83] died, message: 'Villager was slain by Ice Dragon'
+[15May2025 01:57:43.783] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/8294, l='ServerLevel[world]', x=1065.31, y=67.62, z=179.83] died, message: 'Villager was slain by Ice Dragon'
+[15May2025 01:58:17.273] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/7621, l='ServerLevel[world]', x=1062.48, y=66.00, z=138.47] died, message: 'Farmer was slain by Ice Dragon'
+[15May2025 01:58:37.351] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7618, l='ServerLevel[world]', x=1035.81, y=70.50, z=125.20] died, message: 'Villager was turned to ice by Ice Dragon'
+[15May2025 01:58:44.127] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7563, l='ServerLevel[world]', x=1038.24, y=73.62, z=117.98] died, message: 'Villager was slain by Ice Dragon'
+[15May2025 01:58:47.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a drowned whilst trying to escape Ice Dragon
+[15May2025 01:58:47.557] [Server thread/INFO] [tombstone/]: The player Kazu8a has successfully been saved
+[15May2025 01:58:55.356] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1733, y=19, z=127} but found not block entity block Block{minecraft:stone} at location
+[15May2025 01:58:55.356] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1733, y=19, z=127}
+[15May2025 01:58:55.356] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1737, y=24, z=126} but found not block entity block Block{minecraft:stone} at location
+[15May2025 01:58:55.356] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1737, y=24, z=126}
+[15May2025 01:58:55.709] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1733, y=19, z=131} but found not block entity block Block{minecraft:stone} at location
+[15May2025 01:58:55.709] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1733, y=19, z=131}
+[15May2025 01:58:55.710] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1732, y=19, z=147} but found not block entity block Block{minecraft:stone} at location
+[15May2025 01:58:55.710] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1732, y=19, z=147}
+[15May2025 01:59:02.077] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/8291, l='ServerLevel[world]', x=1068.73, y=63.00, z=71.20] died, message: 'Villager hit the ground too hard whilst trying to escape Ice Dragon'
+[15May2025 01:59:02.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi has made the advancement [Acquire Hardware]
+[15May2025 01:59:06.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD was frozen by Ice Dragon
+[15May2025 01:59:06.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has made the advancement [Your First Grave]
+[15May2025 01:59:06.414] [Server thread/INFO] [tombstone/]: The player WhySteveXD has successfully been saved
+[15May2025 01:59:14.079] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7581, l='ServerLevel[world]', x=1014.31, y=72.62, z=70.92] died, message: 'Villager was slain by Ice Dragon'
+[15May2025 01:59:26.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has made the advancement [Knowledge raises the soul]
+[15May2025 01:59:33.277] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7617, l='ServerLevel[world]', x=984.27, y=69.62, z=67.20] died, message: 'Villager was slain by Ice Dragon'
+[15May2025 01:59:50.851] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=882, y=25, z=-314} but found not block entity block Block{minecraft:stone} at location
+[15May2025 01:59:50.851] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=882, y=25, z=-314}
+[15May2025 01:59:50.852] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=895, y=23, z=-306} but found not block entity block Block{minecraft:stone} at location
+[15May2025 01:59:50.852] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=895, y=23, z=-306}
+[15May2025 01:59:51.060] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=879, y=23, z=-313} but found not block entity block Block{minecraft:stone} at location
+[15May2025 01:59:51.060] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=879, y=23, z=-313}
+[15May2025 02:00:15.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has reached the goal [Here They Come]
+[15May2025 02:00:20.840] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/7611, l='ServerLevel[world]', x=1025.48, y=72.62, z=143.96] died, message: 'Scribe was slain by Ice Dragon'
+[15May2025 02:00:23.895] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Armorer'/8295, l='ServerLevel[world]', x=1074.81, y=66.00, z=127.87] died, message: 'Armorer was frozen by Ice Dragon'
+[15May2025 02:00:23.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD was frozen by Ice Dragon
+[15May2025 02:00:23.992] [Server thread/INFO] [tombstone/]: The player WhySteveXD has successfully been saved
+[15May2025 02:00:31.256] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/24013, l='ServerLevel[world]', x=-380.30, y=68.05, z=883.22] died, message: 'Villager suffocated in a wall'
+[15May2025 02:00:45.578] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7572, l='ServerLevel[world]', x=1022.70, y=72.62, z=155.53] died, message: 'Villager was slain by Ice Dragon'
+[15May2025 02:00:53.950] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/7518, l='ServerLevel[world]', x=1023.48, y=69.50, z=120.64] died, message: 'Scribe was frozen by Ice Dragon'
+[15May2025 02:01:13.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 was turned to ice by Ice Dragon
+[15May2025 02:01:13.888] [Server thread/INFO] [tombstone/]: The player shydreamer10 has successfully been saved
+[15May2025 02:01:22.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has reached the goal [Chain Death]
+[15May2025 02:01:22.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD was frozen by Ice Dragon
+[15May2025 02:01:22.169] [Server thread/INFO] [tombstone/]: The player WhySteveXD has successfully been saved
+[15May2025 02:01:34.826] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/7260, l='ServerLevel[world]', x=847.57, y=70.81, z=329.12] died, message: 'Farmer was frozen by Ice Dragon'
+[15May2025 02:01:34.827] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Armorer'/6707, l='ServerLevel[world]', x=845.11, y=70.00, z=332.89] died, message: 'Armorer was turned to ice by Ice Dragon'
+[15May2025 02:01:34.827] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/26931, l='ServerLevel[world]', x=846.19, y=70.00, z=331.44] died, message: 'Toolsmith was turned to ice by Ice Dragon'
+[15May2025 02:01:34.828] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/6556, l='ServerLevel[world]', x=847.67, y=70.84, z=329.40] died, message: 'Scribe was frozen by Ice Dragon'
+[15May2025 02:01:34.828] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/26930, l='ServerLevel[world]', x=849.23, y=70.50, z=328.02] died, message: 'Fisherman was turned to ice by Ice Dragon'
+[15May2025 02:01:34.829] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/26932, l='ServerLevel[world]', x=848.35, y=70.00, z=328.16] died, message: 'Scribe was turned to ice by Ice Dragon'
+[15May2025 02:01:36.628] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7305, l='ServerLevel[world]', x=839.43, y=70.00, z=332.31] died, message: 'Villager was slain by Ice Dragon'
+[15May2025 02:01:39.818] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/6370, l='ServerLevel[world]', x=839.90, y=70.00, z=331.88] died, message: 'Scribe was frozen by Ice Dragon'
+[15May2025 02:01:39.819] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/6562, l='ServerLevel[world]', x=839.73, y=70.00, z=332.97] died, message: 'Fisherman was turned to ice by Ice Dragon'
+[15May2025 02:01:40.318] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/6708, l='ServerLevel[world]', x=839.57, y=70.00, z=335.37] died, message: 'Fisherman was turned to ice by Ice Dragon'
+[15May2025 02:02:33.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD was slain by Ice Dragon
+[15May2025 02:02:33.919] [Server thread/INFO] [tombstone/]: The player WhySteveXD has successfully been saved
+[15May2025 02:02:35.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has reached the goal [Here They Come]
+[15May2025 02:02:42.720] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/26957, l='ServerLevel[world]', x=820.26, y=72.00, z=376.51] died, message: 'Butcher was slain by Ice Dragon'
+[15May2025 02:02:53.080] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/26958, l='ServerLevel[world]', x=824.45, y=72.76, z=329.88] died, message: 'Villager was slain by Ice Dragon'
+[15May2025 02:03:04.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi has made the advancement [Sweet Dreams]
+[15May2025 02:03:08.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Stone Age]
+[15May2025 02:03:24.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 has made the advancement [Getting an Upgrade]
+[15May2025 02:03:26.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD was frozen by Ice Dragon
+[15May2025 02:03:26.817] [Server thread/INFO] [tombstone/]: The player WhySteveXD has successfully been saved
+[15May2025 02:03:35.295] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kazu8a lost connection: Disconnected
+[15May2025 02:03:35.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a left the game
+[15May2025 02:03:46.436] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: shydreamer10 lost connection: Disconnected
+[15May2025 02:03:46.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 left the game
+[15May2025 02:03:48.684] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: WhySteveXD lost connection: Disconnected
+[15May2025 02:03:48.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD left the game
+[15May2025 02:04:03.380] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@481a9c11
+[15May2025 02:04:03.387] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kazu8a[/127.36.175.188:47485] logged in with entity id 29519 at (1372.174963272316, 73.0, -150.19060454236276)
+[15May2025 02:04:03.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a joined the game
+[15May2025 02:04:10.342] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4fbcea02
+[15May2025 02:04:10.348] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: shydreamer10[/127.221.236.251:46633] logged in with entity id 29727 at (6.699999988079074, 61.0, -196.10327575065554)
+[15May2025 02:04:10.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 joined the game
+[15May2025 02:04:12.642] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ec74b4a
+[15May2025 02:04:12.648] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: WhySteveXD[/127.220.99.221:34885] logged in with entity id 29903 at (955.4003021075189, 71.0, 287.8244303182769)
+[15May2025 02:04:12.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD joined the game
+[15May2025 02:04:52.816] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Roothsvi lost connection: Disconnected
+[15May2025 02:04:52.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi left the game
+[15May2025 02:05:03.139] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: shydreamer10 lost connection: Disconnected
+[15May2025 02:05:03.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 left the game
+[15May2025 02:05:09.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD was slain by Dread Thrall
+[15May2025 02:05:09.039] [Server thread/INFO] [tombstone/]: The player WhySteveXD has successfully been saved
+[15May2025 02:05:12.136] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kazu8a lost connection: Disconnected
+[15May2025 02:05:12.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a left the game
+[15May2025 02:06:12.917] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/30603, l='ServerLevel[world]', x=1026.20, y=70.94, z=88.63] died, message: 'Villager was frozen by Ice Dragon'
+[15May2025 02:06:21.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD was slain by Dread Beast
+[15May2025 02:06:21.580] [Server thread/INFO] [tombstone/]: The player WhySteveXD has successfully been saved
