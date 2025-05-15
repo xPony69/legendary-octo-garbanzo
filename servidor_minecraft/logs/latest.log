@@ -17904,3 +17904,49 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 02:06:12.917] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/30603, l='ServerLevel[world]', x=1026.20, y=70.94, z=88.63] died, message: 'Villager was frozen by Ice Dragon'
 [15May2025 02:06:21.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD was slain by Dread Beast
 [15May2025 02:06:21.580] [Server thread/INFO] [tombstone/]: The player WhySteveXD has successfully been saved
+[15May2025 02:07:15.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has made the advancement [Dragonslayer]
+[15May2025 02:08:30.033] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@714f115a
+[15May2025 02:08:30.038] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kazu8a[/127.36.175.188:42607] logged in with entity id 33241 at (1477.0085208588819, 74.0, -219.17870674111572)
+[15May2025 02:08:30.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a joined the game
+[15May2025 02:08:35.388] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2727f66d[id=<null>,name=Roothsvi,properties={},legacy=false] (/127.71.36.129:41215) lost connection: Disconnected
+[15May2025 02:08:42.581] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kazu8a lost connection: Disconnected
+[15May2025 02:08:42.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a left the game
+[15May2025 02:08:44.725] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2fcb9cb2[id=<null>,name=Roothsvi,properties={},legacy=false] (/127.71.36.129:56739) lost connection: Disconnected
+[15May2025 02:09:00.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD has made the advancement [A Strange Grave Dust]
+[15May2025 02:09:04.974] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5c34c3fa
+[15May2025 02:09:04.979] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kazu8a[/127.36.175.188:46519] logged in with entity id 33602 at (1478.3992040430676, 76.0, -214.40271680017207)
+[15May2025 02:09:04.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a joined the game
+[15May2025 02:09:11.081] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kazu8a lost connection: Disconnected
+[15May2025 02:09:11.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a left the game
+[15May2025 02:09:52.372] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2ce2bc3f[id=<null>,name=shydreamer10,properties={},legacy=false] (/127.221.236.251:49417) lost connection: Disconnected
+[15May2025 02:09:58.871] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@7ed9d623[id=<null>,name=shydreamer10,properties={},legacy=false] (/127.221.236.251:35623) lost connection: Disconnected
+[15May2025 02:10:06.372] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@7e45cea8[id=<null>,name=shydreamer10,properties={},legacy=false] (/127.221.236.251:37923) lost connection: Disconnected
+[15May2025 02:10:10.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WhySteveXD was slain by Dread Knight
+[15May2025 02:10:10.992] [Server thread/INFO] [tombstone/]: The player WhySteveXD has successfully been saved
+[15May2025 02:10:33.178] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71a39858
+[15May2025 02:10:33.184] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Roothsvi[/127.71.36.129:56969] logged in with entity id 34474 at (-401.48750001192093, 68.0, 906.6999999880791)
+[15May2025 02:10:33.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi joined the game
+[15May2025 02:10:55.976] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@78583ca4[id=<null>,name=Kazu8a,properties={},legacy=false] (/127.36.175.188:33037) lost connection: Disconnected
+[15May2025 02:12:37.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7135d31d
+[15May2025 02:12:37.289] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kazu8a[/127.36.175.188:45265] logged in with entity id 35503 at (1478.3992040430676, 76.0, -214.40271680017207)
+[15May2025 02:12:37.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a joined the game
+[15May2025 02:13:13.588] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@36050bd0
+[15May2025 02:13:13.593] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: shydreamer10[/127.221.236.251:60509] logged in with entity id 35938 at (5.300000011920925, 57.0, -195.69999998807907)
+[15May2025 02:13:13.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 joined the game
+[15May2025 02:14:43.641] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1dfe4616[id=<null>,name=Srjose56,properties={},legacy=false] (/127.43.94.109:40479) lost connection: Disconnected
+[15May2025 02:14:49.802] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6e6aac3c[id=<null>,name=Srjose56,properties={},legacy=false] (/127.43.94.109:39001) lost connection: Disconnected
+[15May2025 02:14:58.942] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Roothsvi lost connection: Disconnected
+[15May2025 02:14:58.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi left the game
+[15May2025 02:15:18.432] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: shydreamer10 lost connection: Disconnected
+[15May2025 02:15:18.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 left the game
+[15May2025 02:15:20.075] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kazu8a lost connection: Disconnected
+[15May2025 02:15:20.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a left the game
+[15May2025 02:15:31.870] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23a77f26
+[15May2025 02:15:31.874] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Roothsvi[/127.71.36.129:52693] logged in with entity id 37432 at (-394.76592044799963, 64.0, 890.8647256814428)
+[15May2025 02:15:31.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Roothsvi joined the game
+[15May2025 02:15:35.330] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@52efd5b7
+[15May2025 02:15:35.335] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: shydreamer10[/127.221.236.251:45093] logged in with entity id 37752 at (8.268011210074755, 63.0, -196.30000001192093)
+[15May2025 02:15:35.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: shydreamer10 joined the game
+[15May2025 02:15:36.688] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3a816614
+[15May2025 02:15:36.692] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kazu8a[/127.36.175.188:53405] logged in with entity id 37923 at (1403.9164156751128, 67.0, -275.99694237226663)
+[15May2025 02:15:36.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kazu8a joined the game
